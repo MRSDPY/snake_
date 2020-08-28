@@ -2,6 +2,8 @@
 
 The classic **Snake Game**. Made with python and "pygame".
 
+![Image of Yaktocat](https://github.com/MRSDPY/snake_/blob/master/img_res/img.PNG)
+
 # Requirements
 
 python
